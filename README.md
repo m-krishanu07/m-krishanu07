@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishanu Mishra</h1>
-<h3 align="center">AI | NLP | Federated Learning | Python Developer</h3>
+<h3 align="center">AI |ML |DL | NLP | Federated Learning | Python Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2AC8F1&center=true&vCenter=true&width=435&lines=Final+year+B.Tech+IT+Student;Passionate+about+AI+and+ML;Working+on+Federated+LLMs;Let's+Build+Something+Cool!" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 - 🎓 Final-year B.Tech student, **Information Technology**  
   at **Rajiv Gandhi Institute of Petroleum Technology (RGIPT)**
 
-- 🤖 Passionate about **AI, NLP, and privacy-aware machine learning**
+- 🤖 Passionate about **AI,ML,DL NLP, and privacy-aware machine learning**
 
 - 🧪 Currently finishing a research paper on **Federated BERT**  
   for detecting climate obstruction narratives (ACL-inspired)
@@ -20,7 +20,7 @@
 - 🛠️ Strong in **Python**, **PyTorch**, **Hugging Face**,  
   **Scikit-learn**, **Streamlit**, and **data pipelines**
 
-- 🌐 Exploring **LLMs, LangChain**, and **Cloud Integration**
+- 🌐 Exploring **LLMs, Agentic AI , LangChain**, and **Cloud Integration**
 
 - 💡 Always open to remote internships, research, and open-source collabs!
 
